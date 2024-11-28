@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS "codes";
+DROP TYPE IF EXISTS "code_scope";
